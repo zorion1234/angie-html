@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+ <head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="format-detection" content="telephone=no">
+   <link rel="stylesheet" href="/css/style.css">
+   <title>Projekt Dokumentation - ConsoleLight</title>
+</head>
+
+<body>
+   <div class="wrapper">
+    <header class="header">
+   <div class="container">
+      <div class="backdrop"></div>
+
+      <div class="header__wrapper">
+         <div class="header__row">
+            <a class="header__logo" href="/">
+               <svg xmlns="http://www.w3.org/2000/svg" width="141" height="37" viewBox="0 0 141 37" fill="none">
+                  <g clip-path="url(#clip0_23_2675)">
+                     <path d="M140.26 0H0V36.0965H140.26V0Z" fill="black" />
+                     <path
+                        d="M59.8535 5.51802V30.5789H52.8985L52.8308 30.5011L40.792 16.4056V30.5789H33.7693V5.51802H40.7293L40.792 5.59075L52.8308 19.6862V5.51802H59.8535ZM32.1892 30.5789H24.5496L22.8541 26.6211H11.5802L9.88476 30.5789H2.24512L12.9923 5.49795H21.442L32.1892 30.5789ZM20.0601 20.1001L17.2184 13.4687L14.3742 20.1001H20.0601ZM105.985 5.51802H98.9621V30.5789H105.985V5.51802ZM134.705 12.0391V5.51802H111.54V30.5613H134.705V24.0403H118.563V21.2989H134.705V14.7779H118.563V12.0391H134.705ZM74.8895 16.3229V21.9736H86.7628V22.6984C85.0071 23.6917 82.4238 24.1883 79.0128 24.1883C76.1862 24.1883 74.0994 23.7042 72.7526 22.7386C71.4032 21.7705 70.7285 20.2832 70.7285 18.2717V17.8904C70.7285 13.87 73.49 11.8585 79.0128 11.8585C80.2593 11.8585 81.4306 11.9663 82.5241 12.182C83.6176 12.3977 84.5005 12.6711 85.1576 13.0222C86.1533 13.5539 86.5546 14.2637 86.5546 14.2637H93.976V14.1484C93.976 12.2648 93.3591 10.637 92.1251 9.2626C90.8911 7.88817 89.1204 6.83728 86.818 6.11244C84.5155 5.3876 81.7842 5.02393 78.629 5.02393C75.4739 5.02393 72.7124 5.55815 70.3448 6.6266C67.9772 7.69504 66.1463 9.20241 64.8471 11.1512C63.5479 13.1 62.9008 15.3698 62.9008 17.9657V18.1563C62.9008 20.7772 63.5504 23.0546 64.8471 24.9883C66.1463 26.9221 68.0023 28.4194 70.4201 29.4753C72.8379 30.5312 75.662 31.0604 78.8949 31.0604C80.6756 31.0604 82.2031 30.9074 83.4772 30.6014C84.7488 30.2955 85.9451 29.7863 87.0663 29.074L87.2192 30.5638H94.0137V16.3254H74.887L74.8895 16.3229Z"
+                        fill="white" />
+                  </g>
+                  <defs>
+                     <clipPath id="clip0_23_2675">
+                        <rect width="140.26" height="36.0965" fill="white" />
+                     </clipPath>
+                  </defs>
+               </svg>
+            </a>
+            <ul class="header__links">
+               <li class="header-sub header__item">
+                  <span>Продукты</span>
+                  <svg class="header-sub__icon" xmlns="http://www.w3.org/2000/svg" width="9" height="16"
+                     viewBox="0 0 9 16" fill="none">
+                     <path d="M8.5 10.3929L4.75 14.8042M4.75 14.8042L1 10.3929M4.75 14.8042L4.75 1.19653"
+                        stroke="#777777" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                  <div class="header-sub__spoiler collapse">
+                     <ul class="header-sub__list">
+                        <li>
+                           <a href="#" class="underline">Все продукты</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Angie PRO</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">ANIC</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Angie OSS</a>
+                        </li>
+                     </ul>
+                  </div>
+               </li>
+               <li class="header-sub header__item">
+                  <span>Документация</span>
+                  <svg class="header-sub__icon" xmlns="http://www.w3.org/2000/svg" width="9" height="16"
+                     viewBox="0 0 9 16" fill="none">
+                     <path d="M8.5 10.3929L4.75 14.8042M4.75 14.8042L1 10.3929M4.75 14.8042L4.75 1.19653"
+                        stroke="#777777" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                  <div class="header-sub__spoiler collapse">
+                     <ul class="header-sub__list">
+                        <li>
+                           <a href="#" class="underline">Общая документация</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Angie PRO</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">ANIC</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Angie OSS</a>
+                        </li>
+                     </ul>
+                  </div>
+               </li>
+               <li class="header-sub header__item">
+                  <span>Поддержка</span>
+                  <svg class="header-sub__icon" xmlns="http://www.w3.org/2000/svg" width="9" height="16"
+                     viewBox="0 0 9 16" fill="none">
+                     <path d="M8.5 10.3929L4.75 14.8042M4.75 14.8042L1 10.3929M4.75 14.8042L4.75 1.19653"
+                        stroke="#777777" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                  <div class="header-sub__spoiler collapse">
+                     <ul class="header-sub__list">
+                        <li>
+                           <a href="#" class="underline">Поддержка</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Техническая поддержка</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Профессиональные услуги</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Форум</a>
+                        </li>
+                     </ul>
+                  </div>
+               </li>
+               <li class="header-sub header__item">
+                  <span>Компания</span>
+                  <svg class="header-sub__icon" xmlns="http://www.w3.org/2000/svg" width="9" height="16"
+                     viewBox="0 0 9 16" fill="none">
+                     <path d="M8.5 10.3929L4.75 14.8042M4.75 14.8042L1 10.3929M4.75 14.8042L4.75 1.19653"
+                        stroke="#777777" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                  <div class="header-sub__spoiler collapse">
+                     <ul class="header-sub__list">
+                        <li>
+                           <a href="#" class="underline">Поддержка</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Техническая поддержка</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Профессиональные услуги</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Форум</a>
+                        </li>
+                     </ul>
+                  </div>
+               </li>
+            </ul>
+            <div class="header__media header-sub">
+               <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none">
+                  <rect width="26" height="26" rx="13" fill="#777777" />
+                  <path
+                     d="M18.1996 8.19174L16.2461 18.3903C16.2461 18.3903 15.9728 19.0974 15.2219 18.7582L10.7146 15.1795L10.6937 15.1689C11.3025 14.6028 16.0237 10.207 16.23 10.0078C16.5494 9.69918 16.3511 9.51547 15.9803 9.74858L9.00652 14.3347L6.31607 13.3973C6.31607 13.3973 5.89268 13.2413 5.85194 12.9022C5.81068 12.5625 6.33001 12.3788 6.33001 12.3788L17.2981 7.92311C17.2981 7.92311 18.1996 7.51295 18.1996 8.19174Z"
+                     fill="white" />
+               </svg>
+               <svg class="header-sub__icon" xmlns="http://www.w3.org/2000/svg" width="9" height="16"
+                  viewBox="0 0 9 16" fill="none">
+                  <path
+                     d="M7.99219 10.1922L4.24219 14.6035M4.24219 14.6035L0.492187 10.1922M4.24219 14.6035L4.24219 0.995843"
+                     stroke="#777777" stroke-linecap="round" stroke-linejoin="round" />
+               </svg>
+               <div class="header-sub__spoiler collapse">
+                  <ul class="header-sub__list">
+                     <li>
+                        <a href="#">
+                           <span>Новости</span>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"
+                              fill="none">
+                              <path
+                                 d="M0 4.038V0H4.038V1H1V4.038H0ZM0 18V13.962H1V17H4.038V18H0ZM13.962 18V17H17V13.962H18V18H13.962ZM17 4.038V1H13.962V0H18V4.038H17ZM13.942 13.942H15.154V15.154H13.942V13.942ZM13.942 11.519H15.154V12.731H13.942V11.519ZM12.731 12.731H13.942V13.942H12.731V12.731ZM11.519 13.942H12.731V15.154H11.519V13.942ZM10.308 12.731H11.519V13.942H10.308V12.731ZM12.731 10.308H13.942V11.519H12.731V10.308ZM11.519 11.519H12.731V12.731H11.519V11.519ZM10.308 10.308H11.519V11.519H10.308V10.308ZM15.154 2.846V7.692H10.308V2.846H15.154ZM7.692 10.308V15.154H2.846V10.308H7.692ZM7.692 2.846V7.692H2.846V2.846H7.692ZM6.808 14.27V11.193H3.73V14.27H6.808ZM6.808 6.809V3.73H3.73V6.807L6.808 6.809ZM14.269 6.809V3.73H11.192V6.807L14.269 6.809Z"
+                                 fill="#777777" />
+                           </svg>
+                        </a>
+                     </li>
+                     <li>
+                        <a href="#">
+                           <span>Поддержка</span>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"
+                              fill="none">
+                              <path
+                                 d="M0 4.038V0H4.038V1H1V4.038H0ZM0 18V13.962H1V17H4.038V18H0ZM13.962 18V17H17V13.962H18V18H13.962ZM17 4.038V1H13.962V0H18V4.038H17ZM13.942 13.942H15.154V15.154H13.942V13.942ZM13.942 11.519H15.154V12.731H13.942V11.519ZM12.731 12.731H13.942V13.942H12.731V12.731ZM11.519 13.942H12.731V15.154H11.519V13.942ZM10.308 12.731H11.519V13.942H10.308V12.731ZM12.731 10.308H13.942V11.519H12.731V10.308ZM11.519 11.519H12.731V12.731H11.519V11.519ZM10.308 10.308H11.519V11.519H10.308V10.308ZM15.154 2.846V7.692H10.308V2.846H15.154ZM7.692 10.308V15.154H2.846V10.308H7.692ZM7.692 2.846V7.692H2.846V2.846H7.692ZM6.808 14.27V11.193H3.73V14.27H6.808ZM6.808 6.809V3.73H3.73V6.807L6.808 6.809ZM14.269 6.809V3.73H11.192V6.807L14.269 6.809Z"
+                                 fill="#777777" />
+                           </svg>
+                        </a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+            <div class="header__search">
+               <input type="text" placeholder="Введите запрос">
+               <button type="button">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                     <path fill-rule="evenodd" clip-rule="evenodd"
+                        d="M5.52521 0.0327148C2.49179 0.0327148 0.0327148 2.49179 0.0327148 5.52521C0.0327148 8.55864 2.49179 11.0177 5.52521 11.0177C6.8077 11.0177 7.98752 10.5782 8.92225 9.84149L11.8906 12.8098C12.1444 13.0637 12.556 13.0637 12.8098 12.8098C13.0637 12.556 13.0637 12.1444 12.8098 11.8906L9.84149 8.92225C10.5782 7.98752 11.0177 6.8077 11.0177 5.52521C11.0177 2.49179 8.55864 0.0327148 5.52521 0.0327148ZM1.26771 5.52521C1.26771 3.17386 3.17386 1.26771 5.52521 1.26771C7.87657 1.26771 9.78271 3.17386 9.78271 5.52521C9.78271 7.87657 7.87657 9.78271 5.52521 9.78271C3.17386 9.78271 1.26771 7.87657 1.26771 5.52521Z"
+                        fill="#777777" />
+                  </svg>
+               </button>
+            </div>
+            <ul class="header__langs">
+               <li class="header__lang header__lang_eng">
+                  <button>
+                     Eng
+                  </button>
+               </li>
+               <li class="header__lang header__lang_ch">
+                  <button>
+                     中國人
+                  </button>
+               </li>
+            </ul>
+            <a class="header__profile" href="#">
+               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                  <path
+                     d="M10 2C8.93913 2 7.92172 2.42143 7.17157 3.17157C6.42143 3.92172 6 4.93913 6 6C6 7.06087 6.42143 8.07828 7.17157 8.82843C7.92172 9.57857 8.93913 10 10 10C11.0609 10 12.0783 9.57857 12.8284 8.82843C13.5786 8.07828 14 7.06087 14 6C14 4.93913 13.5786 3.92172 12.8284 3.17157C12.0783 2.42143 11.0609 2 10 2ZM7 6C7 5.20435 7.31607 4.44129 7.87868 3.87868C8.44129 3.31607 9.20435 3 10 3C10.7956 3 11.5587 3.31607 12.1213 3.87868C12.6839 4.44129 13 5.20435 13 6C13 6.79565 12.6839 7.55871 12.1213 8.12132C11.5587 8.68393 10.7956 9 10 9C9.20435 9 8.44129 8.68393 7.87868 8.12132C7.31607 7.55871 7 6.79565 7 6ZM5.009 11C4.74564 10.9989 4.48466 11.0499 4.24102 11.1499C3.99739 11.2499 3.7759 11.3971 3.58926 11.5829C3.40261 11.7687 3.25448 11.9895 3.15337 12.2327C3.05225 12.4759 3.00013 12.7366 3 13C3 14.691 3.833 15.966 5.135 16.797C6.417 17.614 8.145 18 10 18C11.855 18 13.583 17.614 14.865 16.797C16.167 15.967 17 14.69 17 13C17 12.4696 16.7893 11.9609 16.4142 11.5858C16.0391 11.2107 15.5304 11 15 11H5.009ZM4 13C4 12.447 4.448 12 5.009 12H15C15.2652 12 15.5196 12.1054 15.7071 12.2929C15.8946 12.4804 16 12.7348 16 13C16 14.309 15.378 15.284 14.327 15.953C13.257 16.636 11.735 17 10 17C8.265 17 6.743 16.636 5.673 15.953C4.623 15.283 4 14.31 4 13Z"
+                     fill="#777777" />
+               </svg>
+            </a>
+            <button class="header__burger">
+               <div class="header__burger_inner">
+                  <span></span>
+               </div>
+            </button>
+         </div>
+
+      </div>
+      <div class="header-menu">
+         <div class="header-menu__close">
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+               <path d="M11.457 1L1.00138 11.7554" stroke="#777777" stroke-linecap="round" />
+               <path d="M1.08594 1.07568L11.5416 11.8311" stroke="#777777" stroke-linecap="round" />
+            </svg>
+         </div>
+         <div class="header__row">
+            <div class="header-menu__buttons">
+               <ul class="header__langs">
+                  <li class="header__lang header__lang_eng">
+                     <button>
+                        Eng
+                     </button>
+                  </li>
+                  <li class="header__lang header__lang_ch">
+                     <button>
+                        中國人
+                     </button>
+                  </li>
+               </ul>
+               <a class="header__profile" href="#">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                     <path
+                        d="M10 2C8.93913 2 7.92172 2.42143 7.17157 3.17157C6.42143 3.92172 6 4.93913 6 6C6 7.06087 6.42143 8.07828 7.17157 8.82843C7.92172 9.57857 8.93913 10 10 10C11.0609 10 12.0783 9.57857 12.8284 8.82843C13.5786 8.07828 14 7.06087 14 6C14 4.93913 13.5786 3.92172 12.8284 3.17157C12.0783 2.42143 11.0609 2 10 2ZM7 6C7 5.20435 7.31607 4.44129 7.87868 3.87868C8.44129 3.31607 9.20435 3 10 3C10.7956 3 11.5587 3.31607 12.1213 3.87868C12.6839 4.44129 13 5.20435 13 6C13 6.79565 12.6839 7.55871 12.1213 8.12132C11.5587 8.68393 10.7956 9 10 9C9.20435 9 8.44129 8.68393 7.87868 8.12132C7.31607 7.55871 7 6.79565 7 6ZM5.009 11C4.74564 10.9989 4.48466 11.0499 4.24102 11.1499C3.99739 11.2499 3.7759 11.3971 3.58926 11.5829C3.40261 11.7687 3.25448 11.9895 3.15337 12.2327C3.05225 12.4759 3.00013 12.7366 3 13C3 14.691 3.833 15.966 5.135 16.797C6.417 17.614 8.145 18 10 18C11.855 18 13.583 17.614 14.865 16.797C16.167 15.967 17 14.69 17 13C17 12.4696 16.7893 11.9609 16.4142 11.5858C16.0391 11.2107 15.5304 11 15 11H5.009ZM4 13C4 12.447 4.448 12 5.009 12H15C15.2652 12 15.5196 12.1054 15.7071 12.2929C15.8946 12.4804 16 12.7348 16 13C16 14.309 15.378 15.284 14.327 15.953C13.257 16.636 11.735 17 10 17C8.265 17 6.743 16.636 5.673 15.953C4.623 15.283 4 14.31 4 13Z"
+                        fill="#777777" />
+                  </svg>
+               </a>
+            </div>
+            <ul class="header__links">
+               <li class="header-sub header__item">
+                  <p>
+                     <span>Продукты</span>
+                     <svg class="header-sub__icon" xmlns="http://www.w3.org/2000/svg" width="9" height="16"
+                        viewBox="0 0 9 16" fill="none">
+                        <path d="M8.5 10.3929L4.75 14.8042M4.75 14.8042L1 10.3929M4.75 14.8042L4.75 1.19653"
+                           stroke="#777777" stroke-linecap="round" stroke-linejoin="round" />
+                     </svg>
+                  </p>
+                  <div class="header-sub__spoiler collapse">
+                     <ul class="header-sub__list">
+                        <li>
+                           <a href="#" class="underline">Все продукты</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Angie PRO</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">ANIC</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Angie OSS</a>
+                        </li>
+                     </ul>
+                  </div>
+               </li>
+               <li class="header-sub header__item">
+                  <p>
+                     <span>Документация</span>
+                     <svg class="header-sub__icon" xmlns="http://www.w3.org/2000/svg" width="9" height="16"
+                        viewBox="0 0 9 16" fill="none">
+                        <path d="M8.5 10.3929L4.75 14.8042M4.75 14.8042L1 10.3929M4.75 14.8042L4.75 1.19653"
+                           stroke="#777777" stroke-linecap="round" stroke-linejoin="round" />
+                     </svg>
+                  </p>
+                  <div class="header-sub__spoiler collapse">
+                     <ul class="header-sub__list">
+                        <li>
+                           <a href="#" class="underline">Общая документация</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Angie PRO</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">ANIC</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Angie OSS</a>
+                        </li>
+                     </ul>
+                  </div>
+               </li>
+               <li class="header-sub header__item">
+                  <p>
+                     <span>Поддержка</span>
+                     <svg class="header-sub__icon" xmlns="http://www.w3.org/2000/svg" width="9" height="16"
+                        viewBox="0 0 9 16" fill="none">
+                        <path d="M8.5 10.3929L4.75 14.8042M4.75 14.8042L1 10.3929M4.75 14.8042L4.75 1.19653"
+                           stroke="#777777" stroke-linecap="round" stroke-linejoin="round" />
+                     </svg>
+                  </p>
+                  <div class="header-sub__spoiler collapse">
+                     <ul class="header-sub__list">
+                        <li>
+                           <a href="#" class="underline">Поддержка</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Техническая поддержка</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Профессиональные услуги</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Форум</a>
+                        </li>
+                     </ul>
+                  </div>
+               </li>
+               <li class="header-sub header__item">
+                  <p>
+                     <span>Компания</span>
+                     <svg class="header-sub__icon" xmlns="http://www.w3.org/2000/svg" width="9" height="16"
+                        viewBox="0 0 9 16" fill="none">
+                        <path d="M8.5 10.3929L4.75 14.8042M4.75 14.8042L1 10.3929M4.75 14.8042L4.75 1.19653"
+                           stroke="#777777" stroke-linecap="round" stroke-linejoin="round" />
+                     </svg>
+                  </p>
+                  <div class="header-sub__spoiler collapse">
+                     <ul class="header-sub__list">
+                        <li>
+                           <a href="#" class="underline">Поддержка</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Техническая поддержка</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Профессиональные услуги</a>
+                        </li>
+                        <li>
+                           <a href="#" class="underline">Форум</a>
+                        </li>
+                     </ul>
+                  </div>
+               </li>
+            </ul>
+            <div class="header__media header-sub">
+               <p>
+                  <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none">
+                     <rect width="26" height="26" rx="13" fill="#777777" />
+                     <path
+                        d="M18.1996 8.19174L16.2461 18.3903C16.2461 18.3903 15.9728 19.0974 15.2219 18.7582L10.7146 15.1795L10.6937 15.1689C11.3025 14.6028 16.0237 10.207 16.23 10.0078C16.5494 9.69918 16.3511 9.51547 15.9803 9.74858L9.00652 14.3347L6.31607 13.3973C6.31607 13.3973 5.89268 13.2413 5.85194 12.9022C5.81068 12.5625 6.33001 12.3788 6.33001 12.3788L17.2981 7.92311C17.2981 7.92311 18.1996 7.51295 18.1996 8.19174Z"
+                        fill="white" />
+                  </svg>
+                  <svg class="header-sub__icon" xmlns="http://www.w3.org/2000/svg" width="9" height="16"
+                     viewBox="0 0 9 16" fill="none">
+                     <path
+                        d="M7.99219 10.1922L4.24219 14.6035M4.24219 14.6035L0.492187 10.1922M4.24219 14.6035L4.24219 0.995843"
+                        stroke="#777777" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+               </p>
+               <div class="header-sub__spoiler collapse">
+                  <ul class="header-sub__list">
+                     <li>
+                        <a href="#">
+                           <span>Новости</span>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"
+                              fill="none">
+                              <path
+                                 d="M0 4.038V0H4.038V1H1V4.038H0ZM0 18V13.962H1V17H4.038V18H0ZM13.962 18V17H17V13.962H18V18H13.962ZM17 4.038V1H13.962V0H18V4.038H17ZM13.942 13.942H15.154V15.154H13.942V13.942ZM13.942 11.519H15.154V12.731H13.942V11.519ZM12.731 12.731H13.942V13.942H12.731V12.731ZM11.519 13.942H12.731V15.154H11.519V13.942ZM10.308 12.731H11.519V13.942H10.308V12.731ZM12.731 10.308H13.942V11.519H12.731V10.308ZM11.519 11.519H12.731V12.731H11.519V11.519ZM10.308 10.308H11.519V11.519H10.308V10.308ZM15.154 2.846V7.692H10.308V2.846H15.154ZM7.692 10.308V15.154H2.846V10.308H7.692ZM7.692 2.846V7.692H2.846V2.846H7.692ZM6.808 14.27V11.193H3.73V14.27H6.808ZM6.808 6.809V3.73H3.73V6.807L6.808 6.809ZM14.269 6.809V3.73H11.192V6.807L14.269 6.809Z"
+                                 fill="#777777" />
+                           </svg>
+                        </a>
+                     </li>
+                     <li>
+                        <a href="#">
+                           <span>Поддержка</span>
+                           <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"
+                              fill="none">
+                              <path
+                                 d="M0 4.038V0H4.038V1H1V4.038H0ZM0 18V13.962H1V17H4.038V18H0ZM13.962 18V17H17V13.962H18V18H13.962ZM17 4.038V1H13.962V0H18V4.038H17ZM13.942 13.942H15.154V15.154H13.942V13.942ZM13.942 11.519H15.154V12.731H13.942V11.519ZM12.731 12.731H13.942V13.942H12.731V12.731ZM11.519 13.942H12.731V15.154H11.519V13.942ZM10.308 12.731H11.519V13.942H10.308V12.731ZM12.731 10.308H13.942V11.519H12.731V10.308ZM11.519 11.519H12.731V12.731H11.519V11.519ZM10.308 10.308H11.519V11.519H10.308V10.308ZM15.154 2.846V7.692H10.308V2.846H15.154ZM7.692 10.308V15.154H2.846V10.308H7.692ZM7.692 2.846V7.692H2.846V2.846H7.692ZM6.808 14.27V11.193H3.73V14.27H6.808ZM6.808 6.809V3.73H3.73V6.807L6.808 6.809ZM14.269 6.809V3.73H11.192V6.807L14.269 6.809Z"
+                                 fill="#777777" />
+                           </svg>
+                        </a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+            <div class="header__search">
+               <input type="text" placeholder="Введите запрос">
+               <button type="button">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                     <path fill-rule="evenodd" clip-rule="evenodd"
+                        d="M5.52521 0.0327148C2.49179 0.0327148 0.0327148 2.49179 0.0327148 5.52521C0.0327148 8.55864 2.49179 11.0177 5.52521 11.0177C6.8077 11.0177 7.98752 10.5782 8.92225 9.84149L11.8906 12.8098C12.1444 13.0637 12.556 13.0637 12.8098 12.8098C13.0637 12.556 13.0637 12.1444 12.8098 11.8906L9.84149 8.92225C10.5782 7.98752 11.0177 6.8077 11.0177 5.52521C11.0177 2.49179 8.55864 0.0327148 5.52521 0.0327148ZM1.26771 5.52521C1.26771 3.17386 3.17386 1.26771 5.52521 1.26771C7.87657 1.26771 9.78271 3.17386 9.78271 5.52521C9.78271 7.87657 7.87657 9.78271 5.52521 9.78271C3.17386 9.78271 1.26771 7.87657 1.26771 5.52521Z"
+                        fill="#777777" />
+                  </svg>
+               </button>
+            </div>
+         </div>
+      </div>
+   </div>
+   <script src="js/app.js"></script>
+</header>
+    
+    <main class="main">
+        
+<div class="container">
+  <div class="section">
+    <div class="content">
+      <h1 class="title">ConsoleLight</h1>
+      
+      
+        <ul>
+            <li><a href="http://example.org/products/product1/">Angie Pro</a></li>
+        </ul>
+      
+        <ul>
+            <li><a href="http://example.org/products/product2/">Angie Pro</a></li>
+        </ul>
+      
+        <ul>
+            <li><a href="http://example.org/news/new1/">Три недели обновлений</a></li>
+        </ul>
+      
+        <ul>
+            <li><a href="http://example.org/news/new2/">ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</a></li>
+        </ul>
+      
+        <ul>
+            <li><a href="http://example.org/news/new3/">ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</a></li>
+        </ul>
+      
+        <ul>
+            <li><a href="http://example.org/news/new4/">ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</a></li>
+        </ul>
+      
+        <ul>
+            <li><a href="http://example.org/news/new5/">ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</a></li>
+        </ul>
+      
+    </div>
+  </div>
+</div>
+
+    </main>
+
+    <footer class="footer">
+   <div class="container">
+      <div class="footer__wrapper">
+         <div class="footer__main">
+            <ul class="footer__list">
+               <li>
+                  <a href="tel:+7 965 312-44-76">+7 965 312-44-76</a>
+                  <a href="mailto:info@wbsrv.ru">info@wbsrv.ru</a>
+                  <p class="footer__address">
+                     <span>119021, г. Москва, </span>
+                     <span>ул. Льва Толстого, д. 14, этаж 1, кв. 1/2</span>
+                  </p>
+                  <p class="footer__address">
+                     <span>ИНН: 7727563778</span>
+                     <span>ОГРН: 1027739642281</span>
+                  </p>
+               </li>
+               <li>
+                  <a href="#" class="footer__sublink">
+                     <span>Новости</span>
+                     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                        <path
+                           d="M0 4.038V0H4.038V1H1V4.038H0ZM0 18V13.962H1V17H4.038V18H0ZM13.962 18V17H17V13.962H18V18H13.962ZM17 4.038V1H13.962V0H18V4.038H17ZM13.942 13.942H15.154V15.154H13.942V13.942ZM13.942 11.519H15.154V12.731H13.942V11.519ZM12.731 12.731H13.942V13.942H12.731V12.731ZM11.519 13.942H12.731V15.154H11.519V13.942ZM10.308 12.731H11.519V13.942H10.308V12.731ZM12.731 10.308H13.942V11.519H12.731V10.308ZM11.519 11.519H12.731V12.731H11.519V11.519ZM10.308 10.308H11.519V11.519H10.308V10.308ZM15.154 2.846V7.692H10.308V2.846H15.154ZM7.692 10.308V15.154H2.846V10.308H7.692ZM7.692 2.846V7.692H2.846V2.846H7.692ZM6.808 14.27V11.193H3.73V14.27H6.808ZM6.808 6.809V3.73H3.73V6.807L6.808 6.809ZM14.269 6.809V3.73H11.192V6.807L14.269 6.809Z"
+                           fill="#777777" />
+                     </svg>
+                  </a>
+               </li>
+               <li>
+                  <a href="#" class="footer__sublink">
+                     <span>Поддержка</span>
+                     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" fill="none">
+                        <path
+                           d="M0 4.038V0H4.038V1H1V4.038H0ZM0 18V13.962H1V17H4.038V18H0ZM13.962 18V17H17V13.962H18V18H13.962ZM17 4.038V1H13.962V0H18V4.038H17ZM13.942 13.942H15.154V15.154H13.942V13.942ZM13.942 11.519H15.154V12.731H13.942V11.519ZM12.731 12.731H13.942V13.942H12.731V12.731ZM11.519 13.942H12.731V15.154H11.519V13.942ZM10.308 12.731H11.519V13.942H10.308V12.731ZM12.731 10.308H13.942V11.519H12.731V10.308ZM11.519 11.519H12.731V12.731H11.519V11.519ZM10.308 10.308H11.519V11.519H10.308V10.308ZM15.154 2.846V7.692H10.308V2.846H15.154ZM7.692 10.308V15.154H2.846V10.308H7.692ZM7.692 2.846V7.692H2.846V2.846H7.692ZM6.808 14.27V11.193H3.73V14.27H6.808ZM6.808 6.809V3.73H3.73V6.807L6.808 6.809ZM14.269 6.809V3.73H11.192V6.807L14.269 6.809Z"
+                           fill="#777777" />
+                     </svg>
+                  </a>
+               </li>
+            </ul>
+         </div>
+         <div class="footer__row">
+            <div class="footer__item">
+               <span class="footer__subtitle">Продукты</span>
+               <ul class="footer__list">
+                  <li>
+                     <a href="#" class="footer__link">Все продукты</a>
+                  </li>
+                  <li>
+                     <a href="#" class="footer__link">Angie PRO</a>
+                  </li>
+                  <li>
+                     <a href="#" class="footer__link">ANIC</a>
+                  </li>
+                  <li>
+                     <a href="#" class="footer__link">Angie OSS</a>
+                  </li>
+               </ul>
+            </div>
+            <div class="footer__item">
+               <span class="footer__subtitle">Документация</span>
+               <ul class="footer__list">
+                  <li>
+                     <a href="#" class="footer__link">Общая документация</a>
+                  </li>
+                  <li>
+                     <a href="#" class="footer__link">Angie PRO</a>
+                  </li>
+                  <li>
+                     <a href="#" class="footer__link">ANIC</a>
+                  </li>
+                  <li>
+                     <a href="#" class="footer__link">Angie OSS</a>
+                  </li>
+               </ul>
+            </div>
+            <div class="footer__item">
+               <span class="footer__subtitle">Поддержка</span>
+               <ul class="footer__list">
+                  <li>
+                     <a href="#" class="footer__link">Техническафя поддержка</a>
+                  </li>
+                  <li>
+                     <a href="#" class="footer__link">Профессиональные услуги</a>
+                  </li>
+                  <li>
+                     <a href="#" class="footer__link">Форум</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+
+      </div>
+   </div>
+</footer>
+    <script src="/js/app.js"></script>
+
+
+   </div>
+</body>
+
+</html>
