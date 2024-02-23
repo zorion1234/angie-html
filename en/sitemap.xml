@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zorion1234.github.io/angie-html/en/categories/</loc>
+    <loc>/angie-html/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="https://zorion1234.github.io/angie-html/categories/"
+                href="/angie-html/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://zorion1234.github.io/angie-html/en/categories/"
+                href="/angie-html/en/categories/"
                 />
   </url><url>
-    <loc>https://zorion1234.github.io/angie-html/en/</loc>
+    <loc>/angie-html/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="https://zorion1234.github.io/angie-html/"
+                href="/angie-html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://zorion1234.github.io/angie-html/en/"
+                href="/angie-html/en/"
                 />
   </url><url>
-    <loc>https://zorion1234.github.io/angie-html/en/tags/</loc>
+    <loc>/angie-html/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="https://zorion1234.github.io/angie-html/tags/"
+                href="/angie-html/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://zorion1234.github.io/angie-html/en/tags/"
+                href="/angie-html/en/tags/"
                 />
   </url>
 </urlset>

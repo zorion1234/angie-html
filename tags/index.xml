@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Projekt Dokumentation</title>
-    <link>https://zorion1234.github.io/angie-html/tags/</link>
+    <link>/angie-html/tags/</link>
     <description>Recent content in Tags on Projekt Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <lastBuildDate>Sat, 10 Feb 2024 18:20:26 +1000</lastBuildDate>
-    <atom:link href="https://zorion1234.github.io/angie-html/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/angie-html/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AngiePro</title>
-      <link>https://zorion1234.github.io/angie-html/tags/angiepro/</link>
+      <link>/angie-html/tags/angiepro/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/tags/angiepro/</guid>
+      <guid>/angie-html/tags/angiepro/</guid>
       <description></description>
     </item>
     <item>
       <title>Anic</title>
-      <link>https://zorion1234.github.io/angie-html/tags/anic/</link>
+      <link>/angie-html/tags/anic/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/tags/anic/</guid>
+      <guid>/angie-html/tags/anic/</guid>
       <description></description>
     </item>
     <item>
       <title>ConsoleLight</title>
-      <link>https://zorion1234.github.io/angie-html/tags/consolelight/</link>
+      <link>/angie-html/tags/consolelight/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/tags/consolelight/</guid>
+      <guid>/angie-html/tags/consolelight/</guid>
       <description></description>
     </item>
     <item>
       <title>Kubernetess</title>
-      <link>https://zorion1234.github.io/angie-html/tags/kubernetess/</link>
+      <link>/angie-html/tags/kubernetess/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/tags/kubernetess/</guid>
+      <guid>/angie-html/tags/kubernetess/</guid>
       <description></description>
     </item>
     <item>
       <title>Anicas</title>
-      <link>https://zorion1234.github.io/angie-html/tags/anicas/</link>
+      <link>/angie-html/tags/anicas/</link>
       <pubDate>Wed, 10 Jan 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/tags/anicas/</guid>
+      <guid>/angie-html/tags/anicas/</guid>
       <description></description>
     </item>
   </channel>

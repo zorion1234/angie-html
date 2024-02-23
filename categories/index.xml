@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Projekt Dokumentation</title>
-    <link>https://zorion1234.github.io/angie-html/categories/</link>
+    <link>/angie-html/categories/</link>
     <description>Recent content in Categories on Projekt Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
-    <atom:link href="https://zorion1234.github.io/angie-html/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/angie-html/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ConsoleLight on Projekt Dokumentation</title>
-    <link>https://zorion1234.github.io/angie-html/tags/consolelight/</link>
+    <link>/angie-html/tags/consolelight/</link>
     <description>Recent content in ConsoleLight on Projekt Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <lastBuildDate>Sat, 10 Feb 2024 18:20:26 +1000</lastBuildDate>
-    <atom:link href="https://zorion1234.github.io/angie-html/tags/consolelight/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/angie-html/tags/consolelight/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angie Pro</title>
-      <link>https://zorion1234.github.io/angie-html/products/product1/</link>
+      <link>/angie-html/products/product1/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/products/product1/</guid>
+      <guid>/angie-html/products/product1/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>Angie Pro</title>
-      <link>https://zorion1234.github.io/angie-html/products/product2/</link>
+      <link>/angie-html/products/product2/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/products/product2/</guid>
+      <guid>/angie-html/products/product2/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>Три недели обновлений</title>
-      <link>https://zorion1234.github.io/angie-html/news/new1/</link>
+      <link>/angie-html/news/new1/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/news/new1/</guid>
+      <guid>/angie-html/news/new1/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</title>
-      <link>https://zorion1234.github.io/angie-html/news/new2/</link>
+      <link>/angie-html/news/new2/</link>
       <pubDate>Wed, 10 Jan 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/news/new2/</guid>
+      <guid>/angie-html/news/new2/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</title>
-      <link>https://zorion1234.github.io/angie-html/news/new3/</link>
+      <link>/angie-html/news/new3/</link>
       <pubDate>Wed, 10 Jan 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/news/new3/</guid>
+      <guid>/angie-html/news/new3/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</title>
-      <link>https://zorion1234.github.io/angie-html/news/new4/</link>
+      <link>/angie-html/news/new4/</link>
       <pubDate>Wed, 10 Jan 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/news/new4/</guid>
+      <guid>/angie-html/news/new4/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</title>
-      <link>https://zorion1234.github.io/angie-html/news/new5/</link>
+      <link>/angie-html/news/new5/</link>
       <pubDate>Wed, 10 Jan 2024 18:20:26 +1000</pubDate>
-      <guid>https://zorion1234.github.io/angie-html/news/new5/</guid>
+      <guid>/angie-html/news/new5/</guid>
       <description>Новость 2</description>
     </item>
   </channel>
