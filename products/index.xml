@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Продукты on Projekt Dokumentation</title>
-    <link>http://example.org/products/</link>
+    <link>https://zorion1234.github.io/angie-html/products/</link>
     <description>Recent content in Продукты on Projekt Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <lastBuildDate>Sat, 10 Feb 2024 18:20:26 +1000</lastBuildDate>
-    <atom:link href="http://example.org/products/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zorion1234.github.io/angie-html/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angie Pro</title>
-      <link>http://example.org/products/product1/</link>
+      <link>https://zorion1234.github.io/angie-html/products/product1/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/products/product1/</guid>
+      <guid>https://zorion1234.github.io/angie-html/products/product1/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>Angie Pro</title>
-      <link>http://example.org/products/product2/</link>
+      <link>https://zorion1234.github.io/angie-html/products/product2/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/products/product2/</guid>
+      <guid>https://zorion1234.github.io/angie-html/products/product2/</guid>
       <description>Новость 2</description>
     </item>
   </channel>

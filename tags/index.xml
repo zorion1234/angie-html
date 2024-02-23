@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Projekt Dokumentation</title>
-    <link>http://example.org/tags/</link>
+    <link>https://zorion1234.github.io/angie-html/tags/</link>
     <description>Recent content in Tags on Projekt Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <lastBuildDate>Sat, 10 Feb 2024 18:20:26 +1000</lastBuildDate>
-    <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zorion1234.github.io/angie-html/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AngiePro</title>
-      <link>http://example.org/tags/angiepro/</link>
+      <link>https://zorion1234.github.io/angie-html/tags/angiepro/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/tags/angiepro/</guid>
+      <guid>https://zorion1234.github.io/angie-html/tags/angiepro/</guid>
       <description></description>
     </item>
     <item>
       <title>Anic</title>
-      <link>http://example.org/tags/anic/</link>
+      <link>https://zorion1234.github.io/angie-html/tags/anic/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/tags/anic/</guid>
+      <guid>https://zorion1234.github.io/angie-html/tags/anic/</guid>
       <description></description>
     </item>
     <item>
       <title>ConsoleLight</title>
-      <link>http://example.org/tags/consolelight/</link>
+      <link>https://zorion1234.github.io/angie-html/tags/consolelight/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/tags/consolelight/</guid>
+      <guid>https://zorion1234.github.io/angie-html/tags/consolelight/</guid>
       <description></description>
     </item>
     <item>
       <title>Kubernetess</title>
-      <link>http://example.org/tags/kubernetess/</link>
+      <link>https://zorion1234.github.io/angie-html/tags/kubernetess/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/tags/kubernetess/</guid>
+      <guid>https://zorion1234.github.io/angie-html/tags/kubernetess/</guid>
       <description></description>
     </item>
     <item>
       <title>Anicas</title>
-      <link>http://example.org/tags/anicas/</link>
+      <link>https://zorion1234.github.io/angie-html/tags/anicas/</link>
       <pubDate>Wed, 10 Jan 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/tags/anicas/</guid>
+      <guid>https://zorion1234.github.io/angie-html/tags/anicas/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Новости on Projekt Dokumentation</title>
-    <link>http://example.org/news/</link>
+    <link>https://zorion1234.github.io/angie-html/news/</link>
     <description>Recent content in Новости on Projekt Dokumentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <lastBuildDate>Sat, 10 Feb 2024 18:20:26 +1000</lastBuildDate>
-    <atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zorion1234.github.io/angie-html/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Три недели обновлений</title>
-      <link>http://example.org/news/new1/</link>
+      <link>https://zorion1234.github.io/angie-html/news/new1/</link>
       <pubDate>Sat, 10 Feb 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/news/new1/</guid>
+      <guid>https://zorion1234.github.io/angie-html/news/new1/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</title>
-      <link>http://example.org/news/new2/</link>
+      <link>https://zorion1234.github.io/angie-html/news/new2/</link>
       <pubDate>Wed, 10 Jan 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/news/new2/</guid>
+      <guid>https://zorion1234.github.io/angie-html/news/new2/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</title>
-      <link>http://example.org/news/new3/</link>
+      <link>https://zorion1234.github.io/angie-html/news/new3/</link>
       <pubDate>Wed, 10 Jan 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/news/new3/</guid>
+      <guid>https://zorion1234.github.io/angie-html/news/new3/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</title>
-      <link>http://example.org/news/new4/</link>
+      <link>https://zorion1234.github.io/angie-html/news/new4/</link>
       <pubDate>Wed, 10 Jan 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/news/new4/</guid>
+      <guid>https://zorion1234.github.io/angie-html/news/new4/</guid>
       <description>Новость 2</description>
     </item>
     <item>
       <title>ВЕБ-СЕРВЕР ANGIE ГОД СПУСТЯ: НОВЫЕ ВОЗМОЖНОСТИ И ПЛАНЫ НА БУДУЩЕЕ</title>
-      <link>http://example.org/news/new5/</link>
+      <link>https://zorion1234.github.io/angie-html/news/new5/</link>
       <pubDate>Wed, 10 Jan 2024 18:20:26 +1000</pubDate>
-      <guid>http://example.org/news/new5/</guid>
+      <guid>https://zorion1234.github.io/angie-html/news/new5/</guid>
       <description>Новость 2</description>
     </item>
   </channel>

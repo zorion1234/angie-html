@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/products/</loc>
+    <loc>https://zorion1234.github.io/angie-html/products/</loc>
     <lastmod>2024-01-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/</loc>
+    <loc>https://zorion1234.github.io/angie-html/news/</loc>
     <lastmod>2024-01-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/products/product1/</loc>
+    <loc>https://zorion1234.github.io/angie-html/products/product1/</loc>
     <lastmod>2024-02-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/products/product2/</loc>
+    <loc>https://zorion1234.github.io/angie-html/products/product2/</loc>
     <lastmod>2024-02-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/angiepro/</loc>
+    <loc>https://zorion1234.github.io/angie-html/tags/angiepro/</loc>
     <lastmod>2024-02-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/anic/</loc>
+    <loc>https://zorion1234.github.io/angie-html/tags/anic/</loc>
     <lastmod>2024-02-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/consolelight/</loc>
+    <loc>https://zorion1234.github.io/angie-html/tags/consolelight/</loc>
     <lastmod>2024-02-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/kubernetess/</loc>
+    <loc>https://zorion1234.github.io/angie-html/tags/kubernetess/</loc>
     <lastmod>2024-02-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://zorion1234.github.io/angie-html/tags/</loc>
     <lastmod>2024-02-10T18:20:26+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://example.org/en/tags/"
+                href="https://zorion1234.github.io/angie-html/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://example.org/tags/"
+                href="https://zorion1234.github.io/angie-html/tags/"
                 />
   </url><url>
-    <loc>http://example.org/news/new1/</loc>
+    <loc>https://zorion1234.github.io/angie-html/news/new1/</loc>
     <lastmod>2024-02-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/anicas/</loc>
+    <loc>https://zorion1234.github.io/angie-html/tags/anicas/</loc>
     <lastmod>2024-01-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/new2/</loc>
+    <loc>https://zorion1234.github.io/angie-html/news/new2/</loc>
     <lastmod>2024-01-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/new3/</loc>
+    <loc>https://zorion1234.github.io/angie-html/news/new3/</loc>
     <lastmod>2024-01-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/new4/</loc>
+    <loc>https://zorion1234.github.io/angie-html/news/new4/</loc>
     <lastmod>2024-01-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/news/new5/</loc>
+    <loc>https://zorion1234.github.io/angie-html/news/new5/</loc>
     <lastmod>2024-01-10T18:20:26+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://zorion1234.github.io/angie-html/</loc>
     <lastmod>2024-01-10T18:20:26+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://example.org/en/"
+                href="https://zorion1234.github.io/angie-html/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://example.org/"
+                href="https://zorion1234.github.io/angie-html/"
                 />
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://zorion1234.github.io/angie-html/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://example.org/en/categories/"
+                href="https://zorion1234.github.io/angie-html/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://example.org/categories/"
+                href="https://zorion1234.github.io/angie-html/categories/"
                 />
   </url>
 </urlset>

@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/en/categories/</loc>
+    <loc>https://zorion1234.github.io/angie-html/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://example.org/categories/"
+                href="https://zorion1234.github.io/angie-html/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://example.org/en/categories/"
+                href="https://zorion1234.github.io/angie-html/en/categories/"
                 />
   </url><url>
-    <loc>http://example.org/en/</loc>
+    <loc>https://zorion1234.github.io/angie-html/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://example.org/"
+                href="https://zorion1234.github.io/angie-html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://example.org/en/"
+                href="https://zorion1234.github.io/angie-html/en/"
                 />
   </url><url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>https://zorion1234.github.io/angie-html/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-RU"
-                href="http://example.org/tags/"
+                href="https://zorion1234.github.io/angie-html/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://example.org/en/tags/"
+                href="https://zorion1234.github.io/angie-html/en/tags/"
                 />
   </url>
 </urlset>
